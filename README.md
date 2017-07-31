@@ -3,7 +3,7 @@ Official HC fork of Docker's official docs repository.
 Initial setup:
 
 1. Clone this repository as `origin`
-2. Add `https://github.com/docker-library/docs -images` as `upstream`
+2. Add `https://github.com/docker-library/docs` as `upstream`
 3. Create a project-specific branch, e.g. `consul` or `vault`
 
 When making a new PR:
